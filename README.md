@@ -11,3 +11,10 @@ pu.push("xxxx",el=>{
   console.log(el)
 })
 ```
+# create dom
+```html
+<div class="pussher" style="display: flex; flex-direction: column-reverse;">
+  <div>aaaa</div>
+  <div style="color: red;">xxxx</div>
+</div>
+```
