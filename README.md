@@ -1,5 +1,5 @@
 # Pusser.js
-Pusser
+### demo https://codepen.io/pinkromeo/pen/RwEXbNd?editors=1010
 ```js
 import {Pusser} from "https://pinkromeo18.github.io/Pusser.js/Pusser.js"
 //usage
